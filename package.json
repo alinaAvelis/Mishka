@@ -1,9 +1,0 @@
-{
-	"name": "mishka",
-	"version": "1.0.0",
-	"description": "",
-	"author": "avelis",
-	"devDependencies": {
-		"json-server": "^0.16.3"
-	}
-}
